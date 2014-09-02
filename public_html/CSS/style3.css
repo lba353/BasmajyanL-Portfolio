@@ -1,0 +1,20 @@
+body {
+    background-color: dodgerblue;
+    margin: 50px;
+}
+
+h1 {
+    color: darkorange;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+}
+
+h2 {
+    color: darkblue;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;    
+}
+
+p {
+    color: lawngreen;
+}

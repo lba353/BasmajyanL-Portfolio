@@ -1,0 +1,14 @@
+body {
+    background-color: darkgoldenrod;
+    margin: 50px;
+}
+
+h1 {
+    color: silver;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+}
+
+p {
+    color: silver;
+}

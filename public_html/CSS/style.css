@@ -1,0 +1,18 @@
+body {
+    background-color: greenyellow;
+    margin: 50px;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+}
+
+p {
+    color: chocolate;
+}
