@@ -7,8 +7,14 @@ h1 {
     color: silver;
     border-bottom-style: solid;
     border-bottom-width: 5px;
+    font-size: xx-large;
 }
 
 p {
     color: silver;
+    font-size: x-large;
+}
+
+nav a {
+    font-size: x-large;
 }
