@@ -21,5 +21,9 @@ p {
 }
 
 nav a {
-    font-size: x-large;
+    font-size: xx-large;
+}
+
+article a {
+    font-size: xx-large;
 }
