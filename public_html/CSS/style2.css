@@ -18,3 +18,9 @@ p {
 nav a {
     font-size: xx-large;
 }
+
+img {
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+}
