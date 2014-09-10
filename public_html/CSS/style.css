@@ -1,29 +1,29 @@
 body {
     background-color: greenyellow;
     margin: 50px;
-}
+} /* This chunk of code changes the background color and margins (in pixels) of the websiite. This layout is similar to the other CSS pages. */
 
 h1 {
     color: red;
     font-size: xx-large;
-}
+} /* This makes the first header red and really large. I made it like this to catch a person attention.  */
 
 h2 {
     color: blue;
     border-bottom-style: solid;
     border-bottom-width: 5px;
     font-size: xx-large;
-}
+} /* This is the same as the first heading, but I also added a border to seperate the heading from the other text. */
 
 p {
     color: chocolate;
     font-size: x-large;
-}
+} /* This makes the other pieces of text the "chocolate" color and makes the font large.*/
 
 nav a {
     font-size: xx-large;
-}
+} /* This makes the links really large, so people could know where to click the links */
 
 article a {
     font-size: xx-large;
-}
+} /* This makes the App Academy link larger than the text so people could go to the site and see some of the projects we do. */

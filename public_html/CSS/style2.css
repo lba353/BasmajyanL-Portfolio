@@ -1,19 +1,19 @@
 body {
     background-color: darkgoldenrod;
     margin: 50px;
-}
+} 
 
 h1 {
     color: silver;
     border-bottom-style: solid;
     border-bottom-width: 5px;
     font-size: xx-large;
-}
+} /* This makes the heading bigger and has a silver border under it to see the projects I have completed and are working on. */
 
 p {
     color: silver;
     font-size: x-large;
-}
+} 
 
 nav a {
     font-size: xx-large;
